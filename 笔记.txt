@@ -1,0 +1,11 @@
+webpack中编译stylus文件需要安装两个loader：
+stylus
+stylus-loader
+两个是必须的
+
+项目文件不要使用中文，可能导致module文件无法找到正确的路径
+
+font line-height 可以被继承
+width：100%
+height 100%
+自适应高度
